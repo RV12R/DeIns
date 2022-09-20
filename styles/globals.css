@@ -79,3 +79,8 @@ body {
   background: inherit;
   border-radius: inherit;
 }
+
+.font-medium {
+  font-weight: 700;
+  font-size: 213%;
+}
